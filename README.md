@@ -29,3 +29,4 @@ This calculator is implemented in Python and utilizes the Tkinter library for th
 2. Execute the Python script implementing the calculator.
 
 
+![calculator](https://github.com/Stoyan83/calculator/assets/95132005/d4c738ef-adc6-433f-9107-af5409fb166a)
